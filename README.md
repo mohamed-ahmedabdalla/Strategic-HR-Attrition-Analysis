@@ -6,8 +6,7 @@ An end-to-end business intelligence project analyzing human resources data to un
 ---
 
 ## 🖼️ Dashboard Preview
-![HR Attrition Dashboard](Task 10 - HR_Attrition-Dashboard_ Mohamed Ahmed Abdalla.png)
-
+![HR Attrition Dashboard](hr-dashboard.png)
 ---
 
 ## 🛠️ Key Features & Technical Deliverables
